@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79816c5e-74fb-4c99-9c00-a56c3f7b03ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TxPortMap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/engine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portmap/default.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portmap/engine.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/result/result.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/result/result_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/go.yml" beforeDir="false" />
@@ -32,7 +34,7 @@
       <change beforePath="$PROJECT_DIR$/pkg/Ginfo/Ghttp/title.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ginfo/Ghttp/title.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/Ginfo/Gnbtscan/GNetBIOS.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/Ginfo/Gnbtscan/Gnbtscan_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/common/constant.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/constant.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/constant.go" beforeDir="false" afterPath="$PROJECT_DIR$/portmap/constant.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/common/engine.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/common/ipparser/ipprocess.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/common/ipparser/ipprocess_test.go" beforeDir="false" />
@@ -40,8 +42,8 @@
       <change beforePath="$PROJECT_DIR$/pkg/common/parser_test.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/common/rangectl/range.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/common/rangectl/range_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/common/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/common/service_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/portmap/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/service_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/portmap/service_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/conversion/conversion.go" beforeDir="false" afterPath="$PROJECT_DIR$/conversion/conversion.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/output/format_file.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/output/format_json.go" beforeDir="false" />
