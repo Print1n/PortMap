@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79816c5e-74fb-4c99-9c00-a56c3f7b03ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TxPortMap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/engine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/result.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/result_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/go.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildAll.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/TxPortMap/TxPortMap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/TxPortMap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-20210329112056656.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-20210329113123457.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-20210329113409985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-20210329114458453.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-20210329114524449.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-20210329210749167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-20210329211016678.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-20210329211309482.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sucre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/Ginfo/Ghttp/Ghttp.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ginfo/Ghttp/Ghttp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/Ginfo/Ghttp/encodings.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ginfo/Ghttp/encodings.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/Ginfo/Ghttp/title.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ginfo/Ghttp/title.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/Ginfo/Gnbtscan/GNetBIOS.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/Ginfo/Gnbtscan/Gnbtscan_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/constant.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/constant.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/engine.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/ipparser/ipprocess.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/ipparser/ipprocess_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/parser.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/parser_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/rangectl/range.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/rangectl/range_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/common/service_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/service_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/conversion/conversion.go" beforeDir="false" afterPath="$PROJECT_DIR$/conversion/conversion.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/output/format_file.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/output/format_json.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/output/format_screen.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/output/out_file.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/output/output.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/output/output_test.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22ZwvMqa8QDPs8FBof14GEjQTvs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="TXPortMap" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="优秀项目/TXPortMap" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="TXPortMap" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="优秀项目/TXPortMap" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
